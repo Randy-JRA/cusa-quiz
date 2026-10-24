@@ -1,0 +1,15 @@
+{
+  "id": ".",
+  "name": "CUSA Social Teaching Quiz",
+  "short_name": "CUSA Quiz",
+  "description": "Study Catholic social teaching with quizzes, notes and games.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#fffaf5",
+  "theme_color": "#7D2AE8",
+  "icons": [
+    { "src": "./app-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
